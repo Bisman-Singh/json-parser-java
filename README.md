@@ -29,3 +29,5 @@ java -cp out Main '{"key":"value","num":123,"arr":[1,2,3],"nested":{"a":1}}'
 ## Output
 
 Prints the parsed structure in pretty-printed format.
+
+<sub><sup>Originally developed and tested locally during learning. Later organized and pushed to GitHub for portfolio visibility.</sup></sub>
